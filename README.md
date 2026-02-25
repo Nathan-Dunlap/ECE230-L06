@@ -12,7 +12,10 @@ In this lab you've learned the basics of number theory as it relates to addition
 | Question 3 | Your answers to the question | 25% |
 
 ## Lab Questions
-Names: Nathan Dunlap, Sahar Sepehr
+### Names
+Nathan Dunlap, Sahar Sepehr
+### Lab Summary
+This lab taught me how half and full-adders work. It especially helped show how to chain two full-adders in sequence to add more numbers.
 ### 1 - How might you add more than two bits together?
 If you use two or more full adders in series, you could add as many bits together as you want. 
 ### 2 - What is the importance of the XOR gate in an adder?
